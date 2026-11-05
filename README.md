@@ -2,7 +2,7 @@
 このリポジトリは、ロボットシステム学で利用するリポジトリです。
 
 # plusコマンド
-![test](https://github.com/<Kuranosuke Furuhata>/robosys2026/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/<Kranosuke>/robosys2026/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
